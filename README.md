@@ -1,7 +1,8 @@
 # Barracks
 Lee Yuwen and Leo Lin's startup plan
-### footman
-### rifleman
+## Project name index
+### Footman
+### Rifleman
 ### knight
 ### Grunts
 ### Headhunters
